@@ -10,3 +10,4 @@ The JSON respond might send back to the evil site when loading the script.The 
 	(Function(window){	  //...some action	  var str = new String();	})(window)
 Or we can also add some garbage data between return value to disable the hijack function:
 	===Some garbage padding ====	[[account:"richman",amount:1000000,to:"someone"]]
+	
