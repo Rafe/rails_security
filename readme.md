@@ -25,7 +25,7 @@ RoR provides their security policy on [http://rubyonrails.org/security](http://r
 4. [Session](https://github.com/Rafe/rails_security/blob/master/04_session.md)
 5. [Sql Injection](https://github.com/Rafe/rails_security/blob/master/05_sql_injection.md)
 6. [Mass Assignment](https://github.com/Rafe/rails_security/blob/master/06_mass_assignment.md)
-7. [Javascript Hijection](https://github.com/Rafe/rails_security/blob/master/07_javascript_hijacking.md)
+7. [Javascript Hijecting](https://github.com/Rafe/rails_security/blob/master/07_javascript_hijacking.md)
 
 By default, Rails has many security features enabled:
 + SQL quoting+ HTML escape+ CSRF protection
